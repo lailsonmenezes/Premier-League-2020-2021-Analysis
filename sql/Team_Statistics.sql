@@ -49,10 +49,10 @@
 -- SELECT
 --     team as Team,
 --     Sum(HW) as Home_Wins,
---     sum(HL) as Home_Loses,
+--     sum(HL) as Home_Losses,
 --     sum(HD) as Home_Draws,
 --     sum(AW) as Away_Wins,
---     sum(AL) as Away_Loses,
+--     sum(AL) as Away_Losses,
 --     sum(AD) as Away_Draws
 -- FROM teams_statistics
 -- GROUP BY Team
