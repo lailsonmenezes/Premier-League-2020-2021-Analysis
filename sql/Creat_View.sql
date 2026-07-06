@@ -4,7 +4,9 @@
 -- Codificação de texto usada: System
 --
 -- Resultados da consulta:
--- SELECT 
+-- 
+	CREAT VIEW Premier_League_2021 AS
+	SELECT 
 --     hometeam AS home_team,
 --     awayteam AS away_team, CONCAT(CAST(FTHG AS INTEGER), ' x ', CAST(FTAG AS INTEGER)) AS score,
 --     fthg AS home_team_goals, 
