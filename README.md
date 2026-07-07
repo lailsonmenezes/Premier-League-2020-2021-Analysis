@@ -4,7 +4,7 @@ Análise focada na temporada 2020-2021 da Premier League utilizando SQL para tra
 
 # 📌 Sobre o Projeto 
 
-O objetivo do projeto é através de um banco de dados pouco informativo reunir informações acerca dos times que disputaram o campeonato inglês de futebol durante a temporada que ocorreu entre o meio de 2020 e início 2021, além de também montar a tabela de classificação final da competição. O tratamento inicial dos dados foi feito através do SQL, utilizando o programa SQLite Studio. As querys foram então exportadas para serem posteriormente utilizadas como base para a montagem dos gráficos no Power Bi.
+O foco do projeto é através de um banco de dados pouco informativo reunir informações acerca dos times que disputaram o campeonato inglês de futebol durante a temporada que ocorreu entre o meio de 2020 e início 2021, além de também montar a tabela de classificação final da competição. O tratamento inicial dos dados foi feito através do SQL, utilizando o programa SQLite Studio. As querys foram então exportadas para serem posteriormente utilizadas como base para a montagem dos gráficos no Power Bi.
 
 # 🎯 Objetivos
 
