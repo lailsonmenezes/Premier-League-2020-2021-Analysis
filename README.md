@@ -114,7 +114,7 @@ Essa parte da consulta traz um parâmetro acerca das vitórias, empates e derrot
 
 <img width="734" height="444" alt="image" src="https://github.com/user-attachments/assets/77f61806-ee8c-4209-acb9-c21cb2e3ed9d" />
 
-# 📊 Dashboard
+# Dashboard
 
 ## Página 1 — Team Performance
 
