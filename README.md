@@ -1,12 +1,12 @@
-# ⚽ Premier League 2020-2021 Analysis
+# Premier League 2020-2021 Analysis
 
 Análise focada na temporada 2020-2021 da Premier League utilizando SQL para tratamento de dados e Power Bi para visualização dos resultados.
 
-# 📌 Sobre o Projeto 
+# Sobre o Projeto 
 
 O foco do projeto é através de um banco de dados pouco informativo reunir informações acerca dos times que disputaram o campeonato inglês de futebol durante a temporada que ocorreu entre o meio de 2020 e início 2021, além de também montar a tabela de classificação final da competição. O tratamento inicial dos dados foi feito através do SQL, utilizando o programa SQLite Studio. As querys foram então exportadas para serem posteriormente utilizadas como base para a montagem dos gráficos no Power Bi.
 
-# 🎯 Objetivos
+# Objetivos
 
 1. Criar uma tabela real e funcional da Premier League, com a classificação sendo precisamente a mesma encontrada nos registros oficiais do torneio. Um exemplo pode ser encontrado na wikipedia: https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League
 
@@ -14,7 +14,7 @@ O foco do projeto é através de um banco de dados pouco informativo reunir info
 
 3. Criar visualizações gráficas para sintetizar as informações obtidas.
 
-# 📂 Base de Dados
+#  Base de Dados
 
 **Fonte:**
 
@@ -28,7 +28,7 @@ Premier League 2020–2021
 
 A base de dados conta com duas tabelas, divisions e matchs. Se trata de uma base de dados relacional, visto que há uma chave primária que faz a conexão entre as duas tabelas, permitindo conectá-las através de joins. A tabela divisions informe acerca do código da liga, seu nome e também o país onde ela é disputada. Já a tabela matchs informa acerca das partida disputadas em cada liga e o resultado, além das datas, nome dos times que disputam, o mandante e o visitante. O resultado da partida aparece sempre em relação ao mandante, se foi vitória, empate ou derrota. 
 
-# 🛠 Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 - SQLite
 - SQL
@@ -37,7 +37,7 @@ A base de dados conta com duas tabelas, divisions e matchs. Se trata de uma base
 - GitHub
 
 
-# 📑 Consultas SQL Desenvolvidas
+# Consultas SQL Desenvolvidas
 
 
 ## - Create View
@@ -78,7 +78,7 @@ O objetivo inicial do projeto, essa consulta gera a tabela real da Premier Leagu
 <img width="596" height="441" alt="image" src="https://github.com/user-attachments/assets/6d0c0b65-5f9b-459d-9623-ec420ee48dbf" />
 
 
-##- Team Performance
+## - Team Performance
 
 ### Objetivo
 
@@ -141,7 +141,7 @@ A última página do dashboard traz uma análise dos quatro melhores times do ca
 <img width="2767" height="1600" alt="Premier_League_Analysis-4" src="https://github.com/user-attachments/assets/30279fe4-e636-4ee8-a607-fda5c216e715" />
 
 
-# 🚀 Habilidades Demonstradas
+# Habilidades Demonstradas
 
 - SQL
 - Data Cleaning
@@ -156,7 +156,7 @@ A última página do dashboard traz uma análise dos quatro melhores times do ca
 - Git
 - GitHub
 
-- # 👨‍💻 Autor
+- # Autor
 
 Lailson de Menezes
 
